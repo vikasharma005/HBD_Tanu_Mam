@@ -3,7 +3,7 @@
 /******************************************************* SETUP ************************************************************/
 
 const config = {
-    name: "Friend", // actual name of the recipient (Mandatory)
+    name: "Yash", // actual name of the recipient (Mandatory)
 
     nickname: "Buddy", // nickname(optional)
 
