@@ -3,13 +3,13 @@
 /******************************************************* SETUP ************************************************************/
 
 const config = {
-    name: "Friend", // actual name of the recipient (Mandatory)
+    name: "Yash", // actual name of the recipient (Mandatory)
 
-    nickname: "Buddy", // nickname(optional)
+    nickname: "", // nickname(optional)
 
     pic: "", //image url of recipients (Mandatory)
 
-    showScrollMsg: true, // set to false if you do not want the scrolling message
+    showScrollMsg: false, // set to false if you do not want the scrolling message
 };
 
 if(config.name) {
