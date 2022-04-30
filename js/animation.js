@@ -176,7 +176,7 @@ button.addEventListener("click",function(){
             return;
         }
 
-        document.querySelector(".HBD").textContent = "May your soul rest in peace";
+        document.querySelector(".HBD").textContent = "Many many Happy Returns of the day";
 
         frames[1].style.display = "flex";
 
