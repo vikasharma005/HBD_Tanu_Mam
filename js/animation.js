@@ -7,7 +7,7 @@ const config = {
 
     nickname: "Buddy", // nickname(optional)
 
-    pic: "", //image url of recipients (Mandatory)
+    pic: "https://photos.app.goo.gl/ov1sMq6dvGXV15Kv6", //image url of recipients (Mandatory)
 
     showScrollMsg: true, // set to false if you do not want the scrolling message
 };
