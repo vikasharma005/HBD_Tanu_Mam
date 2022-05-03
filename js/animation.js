@@ -3,9 +3,9 @@
 /******************************************************* SETUP ************************************************************/
 
 const config = {
-    name: "Yash", // actual name of the recipient (Mandatory)
+    name: "Tanu Ma'am", // actual name of the recipient (Mandatory)
 
-    nickname: "Buddy", // nickname(optional)
+    nickname: "Ma'am", // nickname(optional)
 
     pic: "https://photos.app.goo.gl/ov1sMq6dvGXV15Kv6", //image url of recipients (Mandatory)
 
